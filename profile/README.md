@@ -1,4 +1,6 @@
-# Introduction
+# Vercre
+
+![Logo](fulllogo_smallbuffer.jpg)
 
 Vercre comprises a collection of libraries for issuing, holding, and verifying Verifiable Credentials. It is designed to be modular and flexible, allowing implementers to use only the modules needed.
 
