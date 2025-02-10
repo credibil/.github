@@ -7,7 +7,7 @@
 Credibil comprises a collection of decentralized identity libraries intended
 to underpin the development of decentralized applications.
 
-## Building Blocks
+## Key Building Blocks
 
 ### Decentralized Identifiers (DIDs)
 
