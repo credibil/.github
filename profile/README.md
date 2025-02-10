@@ -1,9 +1,9 @@
 <img src="logo-lockup.svg" alt="logo" width="30%"/>
 
-Credibil comprises a collection of decentralized identity libraries intended
-to underpin the development of decentralized applications.
+Credibil comprises a collection of libraries intended to underpin the development
+of decentralized applications.
 
-## Key Building Blocks
+## Core Building Blocks
 
 ### Decentralized Identifiers (DIDs)
 
