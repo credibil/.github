@@ -1,7 +1,7 @@
 # Credibil
 
 <div align="center">
-  <img src="logo-lockup.svg" alt="logo" width="80%"/>
+  <img src="logo-lockup.svg" alt="logo" width="60%"/>
 </div>
 
 Credibil comprises a collection of decentralized identity libraries intended
