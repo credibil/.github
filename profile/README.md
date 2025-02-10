@@ -1,6 +1,8 @@
 # Credibil
 
-![Logo](logo-lockup.svg)
+<div align="center">
+  <img src="logo-lockup.svg" alt="logo" width="80%"/>
+</div>
 
 Credibil comprises a collection of decentralized identity libraries intended
 to underpin the development of decentralized applications.
