@@ -15,7 +15,7 @@ the entity that owns them.
 
 ### Verifiable Credentials (VCs)
 
-Verified Credentials (VCs) are digital credentials taht can be easily shared in
+Verifiable Credentials (VCs) are digital credentials taht can be easily shared in
 a privacy-respecting and secure manner. They can be used to represent physical
 credentials, such as a passport or license, or indeed any other type of 
 information, but in a more tamper-resistant, digital format.
