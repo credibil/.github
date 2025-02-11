@@ -12,14 +12,14 @@ technologies:
 tamper-proof, self-owned identifiers similar to email addresses or usernames
 
 - **Verifiable Credentials** ([VCs](https://github.com/credibil/vc)) — secure 
-digital certificates called that provide legal proof of things like name, age 
-and ownership of assets
+digital certificates that provide legal proof of things like name, age and
+ownership of assets
 
 - **Decentralized Web Nodes** ([DWNs](https://github.com/credibil/dwn)) — nodes
 that store and synchronize data in a distributed manner.
 
 ## Implementation
 
-The libraries are written in Rust and are designed to be used in a variety of 
+All libraries are written in Rust and designed to be used in a variety of 
 environments, including WebAssembly, mobile, and server-side applications.
 
