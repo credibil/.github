@@ -13,7 +13,7 @@ username, without being owned or controlled by a company or stored on a
 centralized server. They cannot be deleted or altered by anyone except for
 the entity that owns them.
 
-### Verified Credentials (VCs)
+### Verifiable Credentials (VCs)
 
 Verified Credentials (VCs) are digital credentials taht can be easily shared in
 a privacy-respecting and secure manner. They can be used to represent physical
