@@ -1,7 +1,7 @@
 <img src="logo-lockup.svg" alt="logo" width="30%"/>
 
-Credibil comprises a collection of libraries intended to underpin the development
-of anti-fragile, hyper-distributed applications.
+Credibil comprises a collection of libraries intended for use in the 
+development of anti-fragile, hyper-distributed applications.
 
 ## Building Blocks
 
