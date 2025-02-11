@@ -12,8 +12,8 @@ technologies:
 tamper-proof, self-owned identifiers similar to email addresses or usernames
 
 - **Verifiable Credentials** ([VCs](https://github.com/credibil/vc)) — secure 
-digital certificates that provide legal proof of things like name, age and
-ownership of assets
+digital certificates that provide cryptograpically verifiable proof of things
+like name, age and asset ownership
 
 - **Decentralized Web Nodes** ([DWNs](https://github.com/credibil/dwn)) — nodes
 that store and synchronize data in a distributed manner.
