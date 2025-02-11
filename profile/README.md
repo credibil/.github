@@ -5,7 +5,7 @@ development of anti-fragile, hyper-distributed applications.
 
 ## Building Blocks
 
-We build distributed apps on top a collection of open standards-based
+We support the building of distributed apps on top of open standards-based 
 technologies:
 
 - **Decentralized Identifiers** ([DIDs](https://github.com/credibil/did)) — 
