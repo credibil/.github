@@ -15,8 +15,9 @@ tamper-proof, self-owned identifiers similar to email addresses or usernames
 digital certificates that provide cryptograpically verifiable proof of things
 like name, age and asset ownership
 
-- **Decentralized Web Nodes** ([DWNs](https://github.com/credibil/dwn)) — nodes
-that store and synchronize data in a distributed manner.
+- **Decentralized Web Nodes** ([DWNs](https://github.com/credibil/dwn)) — 
+distributed data storage nodes with replicated state deployed in mesh-like 
+construct 
 
 ## Implementation
 
