@@ -1,7 +1,7 @@
 <img src="logo-lockup.svg" alt="logo" width="30%"/>
 
 Credibil provides a framework — a collection of libraries — for use in the
-development of anti-fragile, hyper-distributed applications.
+development of antifragile, hyper-distributed applications.
 
 ## Building Blocks
 
